@@ -1,6 +1,6 @@
 # BoTest
 
-Please see an introductory video to this project [here](https://www.youtube.com/watch?v=3jU-Or0fztc&t).
+Please see an introductory video to this project here:
 [![BoTest Video](https://img.youtube.com/vi/3jU-Or0fztc/0.jpg)](https://youtu.be/3jU-Or0fztc)
 
 
