@@ -10,4 +10,4 @@ As the divergent inputs are based on known utterances for which we have the `nor
 [![BoTest Video](https://img.youtube.com/vi/3jU-Or0fztc/0.jpg)](https://youtu.be/3jU-Or0fztc)
 
 * Publications
-  * Elayne Ruane, Theo Faure, Ross Smith, Dan Bean, Julie Carson-Berndsen, Anthony Ventresque (2017): BoTest: a Framework to Test the Quality of Conversational Agents Using Divergent Input Examples. [ACM Intelligent User Interfaces (IUI)](http://iui.acm.org/2018/).
+  * Elayne Ruane, Theo Faure, Ross Smith, Dan Bean, Julie Carson-Berndsen, Anthony Ventresque (2017): [BoTest: a Framework to Test the Quality of Conversational Agents Using Divergent Input Examples](botest-framework-test.pdf). [ACM Intelligent User Interfaces (IUI)](http://iui.acm.org/2018/).
